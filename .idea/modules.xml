@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Quick-Neural-Art-Transfer-master.iml" filepath="$PROJECT_DIR$/.idea/Quick-Neural-Art-Transfer-master.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/image-mod/.idea/image-mod.iml" filepath="$USER_HOME$/PycharmProjects/image-mod/.idea/image-mod.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/oreillykivy/.idea/oreillykivy.iml" filepath="$USER_HOME$/PycharmProjects/oreillykivy/.idea/oreillykivy.iml" />
+    </modules>
+  </component>
+</project>
