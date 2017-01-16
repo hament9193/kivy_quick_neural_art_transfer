@@ -40,7 +40,6 @@ Then you can run the client
 ```
 python main.py
 ```
-Currently, all messages are in Chinese.
 
 
 
